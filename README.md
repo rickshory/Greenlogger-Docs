@@ -8,7 +8,7 @@ Documents for using Greenloggers. For technical work on Greenloggers, please see
 
  - gl_manual.pdf
  
- The user manual, to see how Greenlogges work.
+ The user manual, to see how Greenloggers work.
 
 ## Contact
 #### Developer/Company
